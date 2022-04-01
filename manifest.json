@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://karimshahin.github.io/Portfolio-PWA/",
+  "start_url": "https://karimshahin.github.io/Portfolio-PWA/",
   "id":"/",
   "icons": [
     {
